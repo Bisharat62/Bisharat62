@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"width = "250"/>
 </div>
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/bisharat-ali-%F0%9F%87%B5%F0%9F%87%B0-782826210/">
+  <a href="https://www.linkedin.com/in/bisharat-ali-782826210/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
